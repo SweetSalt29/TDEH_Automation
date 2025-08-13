@@ -1,0 +1,7 @@
+streamlit
+pandas
+sqlalchemy
+apscheduler
+pywhatkit
+pillow
+werkzeug
